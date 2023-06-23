@@ -13,4 +13,8 @@ describe('calcTax', function () {
     calcTax(7).should.equal(1.4);
   });
 
+  it('', function () {
+
+  });
+
 });
