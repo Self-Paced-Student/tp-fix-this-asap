@@ -12,8 +12,8 @@
 // P.S. Fix this asap
 
 function calcTax (base) {
-
-  return base*0.2;
+  // var padding = 100;
+  // return ((base*padding)*0.2)/padding;
 }
 
 module.exports = calcTax;

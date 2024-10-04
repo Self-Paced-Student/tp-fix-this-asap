@@ -13,8 +13,8 @@ describe('calcTax', function () {
     calcTax(7).should.equal(1.4);
   });
 
-  it('', function () {
-
+  it('test :)', function () {
+    (1).should.equal(1)
   });
 
 });
